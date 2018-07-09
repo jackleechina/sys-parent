@@ -9,4 +9,4 @@ import com.lzy.domain.User;
 @Transactional
 public interface UserDao extends CrudRepository<User, Long> {
   public User findByEmail(String email);
-} 
+}  

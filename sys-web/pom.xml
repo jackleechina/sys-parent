@@ -9,7 +9,8 @@
   </parent>
   <artifactId>sys-web</artifactId>
   <packaging>jar</packaging>
-  <version>${proj.version}.${testPro}</version>
+  <!-- <version>${proj.version}.${testPro}</version> -->
+  <version>0.0.1-SNAPSHOT</version>
   <name>sys-web Maven Webapp </name>
   <url>http://maven.apache.org</url>
   <dependencies>
